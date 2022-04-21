@@ -7,3 +7,11 @@ nums.each do |num|
     p num
   end
 end
+
+
+
+nums.each do |num2|
+  if num2 < 60
+    p num2
+  end
+end
